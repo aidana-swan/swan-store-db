@@ -26,6 +26,7 @@ Swan Store — это современная система управления
 
 ## ER Diagram
 фото приведено в erd.png
+<img width="1144" height="958" alt="erd" src="https://github.com/user-attachments/assets/d13f098a-6012-4cbf-8f6f-9bf3d6851679" />
 
 ### 🔍 Sample Queries
 * **Aggregation (Подсчет запасов по категориям):**
