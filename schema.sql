@@ -1,6 +1,7 @@
 -- SWAN STORE — Database Schema
 -- PostgreSQL
-
+## ER Diagram
+![ER Diagram](swan_store_erd.html.png)
 -- Categories
 CREATE TABLE IF NOT EXISTS categories (
     id SERIAL PRIMARY KEY,
