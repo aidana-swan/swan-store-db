@@ -26,6 +26,9 @@ Swan Store — это современная система управления
 3. Выполните SQL скрипт из файла `schema.sql` (находится в репозитории).
 4. Запустите сервер: `node index.js`.
 
+   <img width="2560" height="1664" alt="Screenshot 2026-05-12 at 14 43 14" src="https://github.com/user-attachments/assets/d0587326-0135-430c-9b9f-dba56aa49f2f" />
+
+
 ## ER Diagram
 фото приведено в erd.png
 <img width="1144" height="958" alt="erd" src="https://github.com/user-attachments/assets/d13f098a-6012-4cbf-8f6f-9bf3d6851679" />
