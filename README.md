@@ -41,5 +41,8 @@ Swan Store — это современная система управления
     ```
 
 ### 🔗 Links
-* **Demo Video:** 
-* **Feedback:** 
+* **Demo Video:**
+* https://youtu.be/QDy7hg1Z5aY?si=D0oeCRWTV3LuG1bJ
+* 
+* **Feedback:**
+* https://youtu.be/xpNTVBSO134?si=znPl3POXydy4leJS
