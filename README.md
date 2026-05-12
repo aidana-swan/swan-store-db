@@ -1,4 +1,5 @@
 # SWAN STORE — Boutique Database System
+<img width="2528" height="1440" alt="Screenshot 2026-05-12 at 14 39 23" src="https://github.com/user-attachments/assets/4783b27e-a858-46b7-a4e8-8e03f795ce96" />
 
 ### 🦢 Project Description
 Swan Store — это современная система управления бутиком, решающая проблему автоматизации учета товаров, клиентов и программ лояльности. Система позволяет администратору управлять каталогом в реальном времени, а покупателям — просматривать актуальную коллекцию.
@@ -7,6 +8,7 @@ Swan Store — это современная система управления
 * **Database:** PostgreSQL
 * **Backend:** Node.js (Express API)
 * **Frontend:** HTML5, CSS3 (Custom Luxury Design), JavaScript (Vanilla)
+<img width="2560" height="1664" alt="Screenshot 2026-05-12 at 14 40 30" src="https://github.com/user-attachments/assets/d558d45d-6543-4756-848c-d24f1f7dd692" />
 
 ### 📊 Database Design
 Проект построен на реляционной модели с соблюдением 3-й нормальной формы (3NF).
@@ -33,12 +35,18 @@ Swan Store — это современная система управления
     ```sql
     SELECT c.name, SUM(p.stock) FROM categories c 
     JOIN products p ON c.id = p.category_id GROUP BY c.name;
+    
     ```
+    <img width="2560" height="1664" alt="Screenshot 2026-05-12 at 14 41 54" src="https://github.com/user-attachments/assets/ff5ccf0a-6ed9-41c8-8269-454e9f7d0c23" />
+<img width="2560" height="1664" alt="Screenshot 2026-05-12 at 14 41 54" src="https://github.com/user-attachments/assets/51064d81-2619-4c20-90d3-034b16b8a028" />
+
 * **Join (История заказов с именами клиентов):**
     ```sql
     SELECT o.id, cu.name, o.order_date FROM orders o 
     JOIN customers cu ON o.customer_id = cu.id;
     ```
+    <img width="2560" height="1664" alt="Screenshot 2026-05-12 at 14 41 08" src="https://github.com/user-attachments/assets/48df3f2f-d37a-4d98-a023-5aff1c6333c3" />
+
 
 ### 🔗 Links
 * **Demo Video:**
