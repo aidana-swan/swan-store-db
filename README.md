@@ -58,8 +58,11 @@ Swan Store — это современная система управления
 * **Feedback:**
 * https://youtu.be/xpNTVBSO134?si=znPl3POXydy4leJS
 
-###  Stepik certificate
-<img width="1826" height="1280" alt="Screenshot 2026-05-12 at 15 17 19" src="https://github.com/user-attachments/assets/28e58b0a-c231-4133-9e31-59931e03b781" />
-
 * **Presentation:**
 https://canva.link/lwmajzpo95327e3
+
+* ** Website**
+http://localhost:3000/index.html
+
+###  Stepik certificate
+<img width="1826" height="1280" alt="Screenshot 2026-05-12 at 15 17 19" src="https://github.com/user-attachments/assets/28e58b0a-c231-4133-9e31-59931e03b781" />
